@@ -314,11 +314,11 @@
             // label20
             // 
             this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(334, 363);
+            this.label20.Location = new System.Drawing.Point(242, 363);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(69, 17);
+            this.label20.Size = new System.Drawing.Size(164, 17);
             this.label20.TabIndex = 29;
-            this.label20.Text = "Perimeter";
+            this.label20.Text = "Perimeter/Circumference";
             // 
             // label14
             // 
